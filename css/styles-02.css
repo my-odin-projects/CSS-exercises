@@ -1,0 +1,16 @@
+.odd-numb-ele {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.second-ele {
+  color: blue;
+  font-size: 36px;
+}
+.third-element {
+  font-size: 24px;
+}
+.fourth-ele {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
